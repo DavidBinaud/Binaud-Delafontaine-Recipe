@@ -1,0 +1,3 @@
+[submodule "Recipe_Project"]
+	path = Recipe_Project
+	url = git@github.com:DavidBinaud/Recipe_Project.git
